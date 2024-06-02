@@ -49,16 +49,16 @@
 - **更多特性** 请直接访问演示站或查阅[站点介绍及操作指南](https://nov.craft.me/X6OU5lr7sIZOBE)
 
 ## 扩展功能
-- **应用中心**：应用中心作为外置应用的扩展部分，可自由嵌入任意WEB页面，支持限制会员等级访问
-- **服务中心**：服务中心提供一些收集到的 AI 课程，教程，帮助文档以及更多的教程文档，可自由嵌入任意WEB页面，支持限制会员等级访问
+- **[应用中心](https://orence.net/ai)**：应用中心作为外置应用的扩展部分，可自由嵌入任意WEB页面，支持限制会员等级访问
+- **[服务中心](https://orence.net/server)**：服务中心提供一些收集到的 AI 课程，教程，帮助文档以及更多的教程文档，可自由嵌入任意WEB页面，支持限制会员等级访问
 
-- **WorkFlow**：LLM 应用开发平台。提供从 Agent 构建到 AI workflow 编排、RAG 检索、模型管理等能力，轻松构建和运营生成式 AI 原生应用。集成自 [dify](https://github.com/langgenius/dify) 
+- **[WorkFlow](https://orence.net/workflow)**：LLM 应用开发平台。提供从 Agent 构建到 AI workflow 编排、RAG 检索、模型管理等能力，轻松构建和运营生成式 AI 原生应用。集成自 [dify](https://github.com/langgenius/dify) 
 ![](https://io.onenov.cn/file/202406021500034.png)
 
-- **开放平台**：开放平台支持灵活的 API 调用，轻松完成对接，通过标准的 OpenAI API 格式访问所有的大模型，同时提供兼容Completions、Chat、Images、Audio以及Embeddings接口API调用。一键连接[new-api](https://github.com/Calcium-Ion/new-api)或[one-api](https://github.com/songquanpeng/one-api)服务，实现 APIKEY 管理，调用平台支持的任意模型供外部应用使用，查看余额消耗，日志，开发文档等。
+- **[开放平台](https://orence.net/open)**：开放平台支持灵活的 API 调用，轻松完成对接，通过标准的 OpenAI API 格式访问所有的大模型，同时提供兼容Completions、Chat、Images、Audio以及Embeddings接口API调用。一键连接[new-api](https://github.com/Calcium-Ion/new-api)或[one-api](https://github.com/songquanpeng/one-api)服务，实现 APIKEY 管理，调用平台支持的任意模型供外部应用使用，查看余额消耗，日志，开发文档等。
 ![](https://io.onenov.cn/file/202406021501200.png)
 
-- **ChatBot**：ChatBot支持包括微信公众号、企业微信、飞书在内的多个热门平台的部署，确保用户可以在各种沟通渠道中实现自动化对话和客户服务，无缝联通上面的WorkFlow应用，通过WorkFlow上传自有知识库文件，定制专属的智能机器人，作为数字分身、智能客服或私域助手，提供个性化的服务和支持。集成自 [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) 
+- **[ChatBot](https://orence.net/bot)**：ChatBot支持包括微信公众号、企业微信、飞书在内的多个热门平台的部署，确保用户可以在各种沟通渠道中实现自动化对话和客户服务，无缝联通上面的WorkFlow应用，通过WorkFlow上传自有知识库文件，定制专属的智能机器人，作为数字分身、智能客服或私域助手，提供个性化的服务和支持。集成自 [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) 
 
 ## 阅读更多
 [少数派文章-为了实现生成式 AI 大一统，我做了一个新玩意～](https://sspai.com/post/89075)
